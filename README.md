@@ -1,4 +1,4 @@
-## Hi there 👋
+I like working with numbers and solving ambiguous problems.
 
 <!--
 **imshashwataggarwal/imshashwataggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
